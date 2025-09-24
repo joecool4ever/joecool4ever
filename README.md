@@ -1,9 +1,36 @@
-- 👋 Hi, I’m @joecool4ever
-- 👀 I’m interested in web design, app and software development.
-- 🌱 I’m currently learning programming, cybersecurity, and the like.
-- 📫 How to reach me by phone +1 (217) 313-9826, by email aldridgejoey238@gmail.com
+👋 Hi, I’m Joseph
 
-<!---
-joecool4ever/joecool4ever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Python / Django / React Developer | 🎮 Game Dev with Pygame & Unity | 📊 Tech Enthusiast
+
+🚀 About Me
+
+🧑‍💻 Passionate about building applications and games that bring ideas to life
+
+🎶 Currently working on Dave and the Secret Chord (a Pygame platformer)
+
+🌱 Exploring full-stack development with Django + React
+
+🛠️ Always learning and experimenting with new tools and frameworks
+
+🛠️ Tech Stack
+
+Languages: Python, JavaScript, C#
+
+Frameworks: Django, React, Unity, Pygame
+
+Tools: Git, VS Code
+
+📂 Featured Projects
+
+🎮 Dave and the Secret Chord
+ – Pygame platformer with custom physics & animation system
+
+🌐 Portfolio Website – Personal website built with Django + React (coming soon)
+
+🧩 Other Games/Tools – Check my repos for small experiments and prototypes
+
+📈 GitHub Stats
+
+🌎 Let’s Connect
+https://www.linkedin.com/in/joseph-aldridge-b35190196
+aldridgejoey238@gmail.com
